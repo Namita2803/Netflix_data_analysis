@@ -77,4 +77,5 @@ Namita Devi
 B.Tech (Electronics and Instrumentation), NIT Silchar
 Aspiring Data Analyst with interests in data visualization, business intelligence, and real-world data-driven problem solving.
 
-https://www.linkedin.com/in/username/
+www.linkedin.com/in/namita-devi-b104a828a
+
